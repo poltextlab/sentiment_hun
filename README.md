@@ -25,8 +25,8 @@ Run Word_embedding_w2v.py!
 ### Sentiment dictionary
 
 Requirements: magyarlanc
-	- Download ML_folder.jar from: [https://drive.google.com/file/d/1pPIldj6nTUbNk3HmCr_9XJn0WSHwMwdZ/view?usp=sharing]
-	- Place ML_folder.jar into the output folder! 
+- Download ML_folder.jar from: [https://drive.google.com/file/d/1pPIldj6nTUbNk3HmCr_9XJn0WSHwMwdZ/view?usp=sharing]
+- Place ML_folder.jar into the output folder! 
 
 Run MAIN_sentiment_dictionary.py!
 - Input the excel name to analyse!
