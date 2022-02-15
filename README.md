@@ -77,3 +77,6 @@ The packages used in both programs belong to their rightful owners!
 [NLTK's hungarian stoplist]: <https://www.nltk.org/>
 [https://drive.google.com/file/d/1pPIldj6nTUbNk3HmCr_9XJn0WSHwMwdZ/view?usp=sharing]: <https://drive.google.com/file/d/1pPIldj6nTUbNk3HmCr_9XJn0WSHwMwdZ/view?usp=sharing>
 
+Orsolya Ring, Martina Katalin Szabó, Csenge Guba, Bendegúz Váradi, István Üveges: Approaches to Sentiment Analysis of Hungarian Political News at Sentence Level with Dictionary-based Method and with Machine Learning (Under review)
+
+ The research was supported by the Ministry of Innovation and Technology NRDI Office within the framework of the Artificial Intelligence National Laboratory Program.
